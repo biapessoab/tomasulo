@@ -1,6 +1,6 @@
-# tomasulo
-Algoritmo de Tomasulo para a disciplina de Arquitetura de Computadores 3
 # Simulador do Algoritmo de Tomasulo
+
+Este simulador do algoritmo de Tomasulo foi desenvolvido para a disciplina de Arquitetura de Computadores 3 da PUC Minas. Implementado em C, o objetivo deste projeto é simular o funcionamento do algoritmo, permitindo a execução fora de ordem das instruções enquanto mantém a consistência do estado do sistema. 
 
 
 ### 1. Status das Instruções
