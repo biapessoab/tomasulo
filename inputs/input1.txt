@@ -1,0 +1,6 @@
+lwd R6, 32(R2)
+lwd R2, 44(R3)
+muld R0, R2, R4
+subd R8, R2, R6
+divd R10, R0, R6
+addd R6, R8, R2
