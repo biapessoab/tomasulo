@@ -1,3 +1,5 @@
+/*Código baseado no algoritmo tomasulo do repositório https://github.com/cart-pucminas/tomasulo */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
